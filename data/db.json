@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "e7a2120b-21c7-42ab-a422-4ba02ec8ec1d",
+      "name": "Avery Creator",
+      "handle": "averycreator",
+      "email": "avery@example.com",
+      "salt": "6fc17e183a7d6e06f8b1ed5b005f563d",
+      "hash": "1b101d37de74c49873d2cab025c6e75701456d724a3bdc3ea144db7ded329538b0acafc34b121369b0ceb3dc3baf164b70f964164c2b9bc42d043793db7ae0d8",
+      "bio": "",
+      "createdAt": "2026-10-20T00:23:52.778Z"
+    }
+  ],
+  "videos": [],
+  "comments": [],
+  "subscriptions": [],
+  "likes": []
+}
