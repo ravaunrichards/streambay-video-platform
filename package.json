@@ -1,0 +1,9 @@
+{
+  "name": "streambay-video-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent video-sharing platform starter with channels, subscriptions, search, comments and uploads.",
+  "type": "module",
+  "scripts": {"start": "node server.js", "dev": "node --watch server.js", "test": "node --test" },
+  "engines": {"node": ">=20"}
+}
